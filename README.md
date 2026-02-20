@@ -1,11 +1,9 @@
-Retail-Sales-SQL-Analysis/
-│
-├── data/
-│   └── retail analysis.csv
-├── sql/
-│   ├── schema.sql
-│   └── analysis.sql
-└── README.md
+# Retail Sales SQL Analysis
+
+## Files
+- [Dataset CSV]((https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting))
+- [Database Schema](`analysis`./schema.sql)
+- [Analysis Queries](./sales_analysis.sql)
 
 
 ## Retail-Sales-Analysis-using-SQL-
