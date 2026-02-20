@@ -1,7 +1,10 @@
+
+
+
 # Retail Sales SQL Analysis
 
 ## Files
-- [Dataset CSV]((https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting))
+- [Dataset CSV](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 - [Database Schema](`analysis`./schema.sql)
 - [Analysis Queries](./sales_analysis.sql)
 
